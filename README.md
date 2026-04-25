@@ -21,11 +21,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slaaggull/slaaggull/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slaaggull/slaaggull/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slaaggull/slaaggull/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/slaaggull-lgtm/slaaggull-lgtm/output/github-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -71,7 +67,7 @@ I'm just getting started, and I'm excited about where this path leads. 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slaaggull&style=flat-square&color=6E40C9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=slaaggull-lgtm&style=flat-square&color=6E40C9" alt="Profile views" />
 </p>
 
 <p align="center"><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
