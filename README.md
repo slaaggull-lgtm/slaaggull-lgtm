@@ -10,6 +10,14 @@
 
 ---
 
+## 🔭 Areas of Interest
+
+| 🧩 Software Design | ⚡ Problem Solving | 🚀 Development |
+|---|---|---|
+| Exploring OOP and clean code principles | Dedicated to improving algorithmic thinking and logical reasoning | Passionate about learning new languages and frameworks to build scalable solutions |
+
+---
+
 ##  About Me
 
 I'm a software engineering student who believes that **great code is not just about making things work — it's about making them work beautifully**.
@@ -23,14 +31,6 @@ Outside the IDE, I enjoy breaking down complex problems into smaller pieces and 
 I use this space to document my progress, share my projects, and hold myself accountable. Every repository here is a snapshot of where I was and how far I've come. Some projects are small, some are messy — but all of them represent genuine effort and learning.
 
 I'm just getting started, and I'm excited about where this path leads. 🚀
-
----
-
-## 🔭 Areas of Interest
-
-| 🧩 Software Design | ⚡ Problem Solving | 🚀 Development |
-|---|---|---|
-| Exploring OOP and clean code principles | Dedicated to improving algorithmic thinking and logical reasoning | Passionate about learning new languages and frameworks to build scalable solutions |
 
 ---
 
