@@ -18,7 +18,19 @@
 
 ---
 
-##  About Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slaaggull/slaaggull/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slaaggull/slaaggull/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slaaggull/slaaggull/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🙋‍♀️ About Me
 
 I'm a software engineering student who believes that **great code is not just about making things work — it's about making them work beautifully**.
 
