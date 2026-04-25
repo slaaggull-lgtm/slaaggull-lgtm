@@ -26,7 +26,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 
 I'm a software engineering student who believes that **great code is not just about making things work — it's about making them work beautifully**.
 
