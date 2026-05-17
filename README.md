@@ -18,7 +18,7 @@
 
 ---
 
-
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/slaaggull-lgtm/slaaggull-lgtm/output/github-snake.svg" alt="snake animation" />
@@ -61,6 +61,10 @@ I'm just getting started, and I'm excited about where this path leads. 🚀
 <p align="center">
   <a href="https://www.linkedin.com/in/s%C4%B1la-a%C4%9Fg%C3%BCl-011b50387/">
     <img src="https://img.shields.io/badge/LinkedIn-Sıla%20Ağgül-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:slaaggull@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-slaaggull@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
