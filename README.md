@@ -48,13 +48,8 @@ I'm just getting started, and I'm excited about where this path leads. 🚀
 
 ---
 
-## 🛠️ Skills & Tools
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
----
 
 ## 📫 Let's Connect
 
