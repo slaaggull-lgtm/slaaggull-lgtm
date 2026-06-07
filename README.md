@@ -74,4 +74,3 @@ I'm just getting started, and I'm excited about where this path leads. 🚀
   <img src="https://komarev.com/ghpvc/?username=slaaggull-lgtm&style=flat-square&color=6E40C9" alt="Profile views" />
 </p>
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
