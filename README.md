@@ -28,7 +28,7 @@
 
 ##  About Me
 
-I'm a software engineering student who believes that **great code is not just about making things work — it's about making them work beautifully**.
+I'm a first-year Software Engineering student who believes that great code is not just about making things work — it's about making them work beautifully.
 
 My journey started with curiosity: *Why does software break? How do programs think? What makes one solution better than another?* These questions pulled me deeper into the world of computer science, and I haven't looked back since.
 
